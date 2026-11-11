@@ -42,3 +42,6 @@ next-env.d.ts
 
 # 練習前の LINE の住所の控え（前の案件の URL）
 .line-webhook-original.txt
+
+# クライアントに渡す図入りの PDF は公開しない（文章の 運用マニュアル.md は公開してよい）
+運用マニュアル.pdf
